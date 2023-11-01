@@ -16,3 +16,12 @@ Follow these steps to install IDARU:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/siriil/idaru.git
+   cd idaru
+   go build
+   mv idaru /usr/bin/
+
+## Usage
+   ```sh
+   cat urls.txt | idaru -sh
+
+
