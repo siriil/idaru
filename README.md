@@ -76,6 +76,7 @@ https://domain2.tld/path
 https://domain.tld/path?file=index.html&test=debug&id=1
 https://domain.tld/pathfile?file=index.html&test=debug
 https://domain2.tld/parent/path?file=index.html&test=debug
+https://domain2.tld/path
 ```
 
 ### Filter URLs with Parameters 
